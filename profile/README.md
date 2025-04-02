@@ -1,6 +1,6 @@
 # Optical Brain-Imaging Lab
 
-formerly Bio-SSA https://www1.villanova.edu/villanova/engineering/research/Faculty/biomedical-signals-systems-analysis.html
+formerly [Bio-SSA](https://www1.villanova.edu/villanova/engineering/research/Faculty/biomedical-signals-systems-analysis.html)
 
 Led by [Dr. Meltem Izzetoglu](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer/directory/biodetail.html?mail=meltem.izzetoglu@villanova.edu), assistant professor in the Department of Electrical and Computer Engineering, the Optical Brain-Imaging (OBI) Laboratory’s mission is to study the functioning of human brain and body by acquiring signals of bio-optical, bio-electric, bio-mechanical and bio-acoustic origin using biomedical sensors, devices and signal processing algorithms based on engineering, math, physics, and physiological principles.
 
