@@ -6,6 +6,38 @@ Led by [Dr. Meltem Izzetoglu](https://www1.villanova.edu/university/engineering/
 
 In the OBI Lab, research is focused on brain imaging for cognitive activity and physiological monitoring using optical methods. Functional near infrared spectroscopy (fNIRS) can monitor changes in oxygenated- and deoxygenated-hemoglobin, which can be related to cognitive activity and other physiological changes continuously and noninvasively using the attenuation of light in the near infrared range within the tissue. Using the advantages fNIRS technology such as portability, affordability, ease of application and noninvasiveness, brain imaging in every day environments, in the field and clinics is being explored in the Bio-SSA Lab on healthy and diseased/disabled populations of all ages.
 
+Major research topics include:
+
+* Human performance assessment
+* Monitoring of learning and training
+* Reading and mathematical thinking assessment
+* Cognitive aging
+* Anesthesia monitoring
+* Working memory
+* Attentional domain processing
+
+In addition to cognitive activity assessment studies, other research areas involve brain physiology monitoring, including cerebral oximetry, hematoma detection and edema monitoring on laboratory models (phantoms), animal (piglets) and human tests. Next generation fNIRS system, sensor and analysis algorithm development, phantom modeling and protocol generation for continuous, reliable, comfortable and versatile brain monitoring constitute an integral and central part of all these major research initiatives.
+
+In addition to brain imaging research, in the OBI Lab other biomedical signals of bio-electric, bio-mechanic and bio-acoustic origins are also studied. Measurements of electrophysiological signals from the brain using electroencephalogram (EEG), the heart using electrocardiogram (ECG) and the muscles using electromyogram (EMG) and their processing techniques are studied and taught in various biomedical engineering classes. Using pulse plethysmography (PPG), pulse volume and blood pressure signals and using a digital stethoscope heart sounds are also being collected and analyzed. The signals collected from the body and the brain are compared, correlated and fused in different applications under imposed conditions such as after exercise and at different postures.
+
+
+### Some of our facilities include
+
+* Portable functional near infrared spectroscopy (fNIRS) system: fNIR Imager, 2000C, fNIR Devices, LLC) – 18 optodes
+* Wireless functional near infrared spectroscopy (fNIRS) system: fNIR Imager, 1200W, fNIR Devices, LLC – 4 optodes
+* iWorx Bioinstrumentation Physiology Teaching Kit (iWorx Systems, Inc) with:
+  * ECG
+  * EEG
+  * EMG
+  * Pulse Plethysmograph
+  * Spirometer
+  * Stethoscope
+  * Blood Pressure Cuff
+  * Hand Dynamometer
+  * Temperature Sensor
+* Stimulus Presentation Program: Neuropsychological Assessment Research (NAR) Program
+* Dedicated Computer Servers for Processing data
+
 
 ## Current Research Projects
 
